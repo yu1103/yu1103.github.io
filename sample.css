@@ -1,0 +1,104 @@
+
+
+
+
+
+@media screen and (max-width: 650px){	
+  .br-pc { display:none; }
+  .br-sp { display:block; }
+
+  body {
+    font-family: "游明朝体","YuMincho"; font-weight: 600;
+    text-align: center;
+    background: url("../pic/IMG_3761.PNG") center center / cover no-repeat fixed;
+    opacity: 0.9;
+    
+    }
+      
+      h2,h3{ 
+        font-size:16px;
+      }
+      
+  
+      .main {
+        background-color: white;
+        margin:32px;
+        padding-left:20px;
+        padding-right:20px;
+        
+       
+      }
+
+      
+    
+      h2{
+        
+        margin-bottom: 30px;
+        font-family: 'Caveat', cursive;
+        padding-top: 30px;
+      }
+      
+      p { 
+        font-size: 7px;
+    
+      }
+      h3{
+        font-family: 'Caveat', cursive;
+        padding-bottom: 30px;
+      }
+      
+
+
+
+}
+
+
+
+
+
+@media screen and (min-width: 650px){	
+  .br-pc { display:block; }
+  .br-sp { display:none; }
+
+  
+  body {
+    font-family: "游明朝体","YuMincho"; font-weight: 600;
+    text-align: center;
+    background: url("../pic/IMG_3761.PNG") center center / cover no-repeat fixed;
+    opacity: 0.9;
+      
+    }
+      
+      
+    
+      .main {
+        background-color: white;
+        margin:70px;
+        padding: 40px;
+        
+      }
+    
+      h2{
+        
+        margin-bottom: 50px;
+        font-family: 'Caveat', cursive;
+      }
+      
+      p { 
+        font-size: 12pt
+    
+      }
+      h3{
+        font-family: 'Caveat', cursive;
+      }
+      
+    
+  
+  }
+
+
+
+  
+
+
+
